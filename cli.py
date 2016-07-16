@@ -29,7 +29,7 @@ def main():
     sample_size = int(arguements['--sample_size'])
     absolute_effect_size = float(arguements['--absolute_effect_size'])
     if arguements['--relative_effect_size']:
-        relative_effect_size = float(arguements['--effect_size'])
+        relative_effect_size = float(arguements['--relative_effect_size'])
     else:
         relative_effect_size = None
 
