@@ -8,7 +8,7 @@ from setuptools import setup
 
 setup(
     name='bayesian_ab_test',
-    version='0.0.2',
+    version='0.0.3',
     url='http://github.com/eriktaubeneck/bayesian_ab_test',
     license='MIT',
     author='Erik Taubeneck',
